@@ -44,7 +44,7 @@
 
 5.	Используемый DB_DSN:
    ```
-  	DB_DSN=host=localhost user=gorm_user password=4471716 dbname=pz6_gorm port=5432 sslmode=disable
+  	DB_DSN=host=localhost user=gorm_user password=******* dbname=pz6_gorm port=5432 sslmode=disable
    ```
 6.	Возникшие проблемы и их решения.
    Я столкнулась с проблемами, когда переносила проект на удаленный сервер.
